@@ -1,0 +1,3 @@
+C:/Users/thnguyen/Documents/Visual Studio 2010/Projects/projecting_pts_using_a_parametric_model/build/CMakeFiles/project_inliers.dir
+C:/Users/thnguyen/Documents/Visual Studio 2010/Projects/projecting_pts_using_a_parametric_model/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/thnguyen/Documents/Visual Studio 2010/Projects/projecting_pts_using_a_parametric_model/build/CMakeFiles/ZERO_CHECK.dir

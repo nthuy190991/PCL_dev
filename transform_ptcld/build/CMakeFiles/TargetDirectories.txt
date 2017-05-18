@@ -1,0 +1,3 @@
+C:/Users/thnguyen/Documents/Visual Studio 2010/Projects/transform_ptcld/build/CMakeFiles/main.dir
+C:/Users/thnguyen/Documents/Visual Studio 2010/Projects/transform_ptcld/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/thnguyen/Documents/Visual Studio 2010/Projects/transform_ptcld/build/CMakeFiles/ZERO_CHECK.dir
